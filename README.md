@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B79FC&height=120&section=header"/>
-
 # Olá! Eu sou Natanael Machado 🖐️
 
 <div> 
@@ -26,5 +24,3 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSM\&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer"/>
