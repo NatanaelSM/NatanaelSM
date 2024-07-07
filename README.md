@@ -1,8 +1,9 @@
 # Olá! Eu sou Natanael Machado 🖐️
 
 <div> 
-  <a href = "mailto:natanaelsm0109@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:natanaelsm0109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natanaelsm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://natanael-sm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifolio-000000?style=for-the-badge" target="_blank"></a> 
 </div>
 
 <br>
